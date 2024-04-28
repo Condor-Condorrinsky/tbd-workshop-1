@@ -261,7 +261,7 @@ create a sample usage profiles and add it to the Infracost task in CI/CD pipelin
 	metadata = {
     	vmDnsSetting : "GlobalDefault"
     	notebook-disable-root = true
-  }
+  	}
 	```
 
 	Kod do uruchomienia Secure Boot:
